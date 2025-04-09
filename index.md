@@ -1,3 +1,3 @@
 # Test
 
-testing markdown scripts in GitHub
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
